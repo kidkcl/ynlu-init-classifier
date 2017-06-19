@@ -1,0 +1,11 @@
+Intent1:
+    positive:
+        - utt1
+        - utt2
+    negative:
+        - can be empty
+Intent2:
+    positive:
+        - utt3
+    negative:
+
